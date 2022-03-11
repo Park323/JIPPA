@@ -1,0 +1,86 @@
+{
+    "recipe":[
+        {
+            "id":0,
+            "name":"Gin & Tonic",
+            "name_kr":"진 앤 토닉",
+            "skill":0,
+            "ingredients":["0-0","2-1"],
+            "short_description":"진과 토닉워터를 섞은 시원한 드링크",
+            "description":"1 하이볼 글라스에 큐브드 아이스를 80%6개 넣고 글라스를 차갑게 한다.\n2 셰이커에 큐브드 아이스를 80%7~8개 채운 후 소다수를 제외한 위의 재료를 넣고 잘 흔든다.\n3 하이볼 글라스에 셰이커에 있는 얼음을 거르며 내용물만 따른다.\n4 소다수로 80% 채우고 잘 저어준다.\n5 A Slice of Lemon레몬 슬라이스로 장식한다."
+        },
+        {
+            "id":1,
+            "name":"Screw Driver",
+            "name_kr":"스크류 드라이버",
+            "skill":0,
+            "ingredients":["0-2","3-0"],
+            "short_description":"술 맛 나는 오렌지 주스",
+            "description":""
+        },
+        {
+            "id":2,
+            "name":"Screw Driver",
+            "name_kr":"테스트 오예",
+            "skill":0,
+            "ingredients":["0-2","3-0"],
+            "short_description":"술 맛 나는 오렌지 주스",
+            "description":""
+        },
+        {
+            "id":3,
+            "name":"Screw Driver",
+            "name_kr":"인사이트와우",
+            "skill":0,
+            "ingredients":["0-2","3-0"],
+            "short_description":"술 맛 나는 오렌지 주스",
+            "description":""
+        },
+        {
+            "id":4,
+            "name":"GodFather",
+            "name_kr":"갓파더",
+            "skill":0,
+            "ingredients":["0-3","1-2"],
+            "short_description":"닥터페퍼맛 위스키",
+            "description":"1 하이볼 글라스에 큐브드 아이스를 80%6개 넣고 글라스를 차갑게 한다.\n2 셰이커에 큐브드 아이스를 80%7~8개 채운 후 소다수를 제외한 위의 재료를 넣고 잘 흔든다.\n3 하이볼 글라스에 셰이커에 있는 얼음을 거르며 내용물만 따른다.\n4 소다수로 80% 채우고 잘 저어준다.\n5 A Slice of Lemon레몬 슬라이스로 장식한다."
+        },
+        {
+            "id":5,
+            "name":"Cuba Libre",
+            "name_kr":"쿠바 리브레",
+            "skill":0,
+            "ingredients":["0-1","2-3"],
+            "short_description":"럼과 콜라를 섞음",
+            "description":"1 하이볼 글라스에 큐브드 아이스를 80%6개 넣고 글라스를 차갑게 한다.\n2 셰이커에 큐브드 아이스를 80%7~8개 채운 후 소다수를 제외한 위의 재료를 넣고 잘 흔든다.\n3 하이볼 글라스에 셰이커에 있는 얼음을 거르며 내용물만 따른다.\n4 소다수로 80% 채우고 잘 저어준다.\n5 A Slice of Lemon레몬 슬라이스로 장식한다."
+        },
+        {
+            "id":6,
+            "name":"Blue Hawai",
+            "name_kr":"블루 하와이",
+            "skill":1,
+            "ingredients":["0-1","1-1","2-1"],
+            "short_description":"파란 블루하와이",
+            "description":"1 하이볼 글라스에 큐브드 아이스를 80%6개 넣고 글라스를 차갑게 한다.\n2 셰이커에 큐브드 아이스를 80%7~8개 채운 후 소다수를 제외한 위의 재료를 넣고 잘 흔든다.\n3 하이볼 글라스에 셰이커에 있는 얼음을 거르며 내용물만 따른다.\n4 소다수로 80% 채우고 잘 저어준다.\n5 A Slice of Lemon레몬 슬라이스로 장식한다."
+        }
+    ],
+    "skill":[
+        {
+            "id":0,
+            "name":"Build",
+            "name_kr":"빌드"
+        },
+        {
+            "id":1,
+            "name":"Shake",
+            "name_kr":"쉐이크"
+        }
+    ],
+    "glass":[
+        {
+            "id":0,
+            "name":"martini glass",
+            "name_kr":"마티니 글라스"
+        }
+    ]
+}
